@@ -1,14 +1,112 @@
-# 💫 About Me:
-I’m a Computer Science student with a strong focus on software development and building real-world applications. I have hands-on experience with Java, HTML, CSS, and JavaScript, and have developed projects including desktop applications using Electron and interactive web-based systems.<br><br>I’m particularly interested in system design, performance optimization, and creating intuitive user experiences. I actively apply data structures, algorithms, and core computer science concepts to solve practical problems and improve application efficiency.<br><br>Currently, I’m focused on strengthening my development skills, building impactful projects, and preparing for software engineering roles.
+<h1 align="center">Hi 👋, I'm Devarasetty Kuldeep</h1>
 
+<h3 align="center">
+Full-Stack Developer • MERN Stack • Embedded Systems Enthusiast
+</h3>
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarasetty-kuldeep-8083b5350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuldeepdevarasetty@yahoo.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kd_3007)
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+```bash
+$ whoami
 
+Devarasetty Kuldeep
+Third-Year B.Tech Computer Science Engineering
+Minor in Internet of Things (IoT)
+Amrita Vishwa Vidyapeetham
 
+$ cat interests.txt
 
+• Full-Stack Web Development
+• Backend Engineering
+• REST APIs & Authentication
+• Embedded Systems
+• IoT Solutions
+• Problem Solving
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+$ echo $current_status
+
+🚀 Actively seeking Software Engineering Internship opportunities.
+```
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+
+## Frameworks & Technologies
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+## Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Embedded Platforms
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Job Application Tracker** | A full-stack MERN application featuring a Kanban dashboard for tracking job applications, JWT authentication, protected REST APIs, and responsive UI. | React • Node.js • Express • MongoDB • Tailwind CSS |
+| **Stock Market Trading Platform** | A web-based trading platform supporting portfolio management, transaction tracking, secure authentication, and relational database design. | PHP • MySQL |
+| **Autonomous Robot Navigation** | An autonomous robot capable of obstacle avoidance, line following, and Bluetooth-based web control for real-time navigation. | Arduino UNO R4 • Embedded C • HTML • CSS • JavaScript |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevarasettyKuldeep&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=DevarasettyKuldeep&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/devarasetty-kuldeep-8083b5350/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kuldeepdevarasetty@yahoo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DevarasettyKuldeep">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💼 Open to Software Engineering Internships • Full-Stack Development • Backend Engineering • Embedded Systems
+</p>

@@ -145,7 +145,15 @@ Jul 2024 – Present • Coimbatore, India • CGPA: 7.6 / 10
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DevarasettyKuldeep&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=DevarasettyKuldeep&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevarasettyKuldeep&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---

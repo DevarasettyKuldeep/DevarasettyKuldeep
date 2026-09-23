@@ -1,0 +1,75 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      # ----------------------------- GitHub Stats -----------------------------
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------- Top Languages -----------------------------
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------- GitHub Streak -----------------------------
+      - name: Generate GitHub streak
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------- Activity Graph -----------------------------
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=react-dark&hide_border=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------- Contribution Snake -----------------------------
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Copy snake files
+        run: |
+          mkdir -p profile
+          cp dist/github-contribution-grid-snake.svg profile/
+          cp dist/github-contribution-grid-snake-dark.svg profile/
+
+      # ----------------------------- Commit generated files -----------------------------
+      - name: Commit generated profile assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update GitHub profile stats"
+          git push

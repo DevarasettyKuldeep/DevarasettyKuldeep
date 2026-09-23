@@ -282,21 +282,23 @@ Jul 2024 – Present • Coimbatore, India • CGPA: 7.6 / 10
 
 # GitHub Analytics
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevarasettyKuldeep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevarasettyKuldeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" height="170" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DevarasettyKuldeep&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevarasettyKuldeep&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -305,18 +307,9 @@ Jul 2024 – Present • Coimbatore, India • CGPA: 7.6 / 10
 
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DevarasettyKuldeep/DevarasettyKuldeep/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DevarasettyKuldeep/DevarasettyKuldeep/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/DevarasettyKuldeep/DevarasettyKuldeep/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="./profile/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 

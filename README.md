@@ -43,56 +43,197 @@ $ echo $current_status
 
 # 🛠 Tech Stack
 
-## Languages
+<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+<div style="display: flex; justify-content: center; align-items: center;">
+<table align="center" border="0">
 
-## Frontend
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+  </tr>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
 
-## Backend
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+      <br>Raspberry Pi
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=espressif" width="48" height="48" alt="ESP32" />
+      <br>ESP32
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=stm32" width="48" height="48" alt="STM32" />
+      <br>STM32
+    </td>
+  </tr>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+</table>
+</div>
 
-## AI / ML
+<br>
 
-![OpenAI](https://img.shields.io/badge/LLM_Apps-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+---
 
-## Agentic AI / MCP
+# Data Science & ML Stack
 
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1E1E1E?style=flat-square&logo=anthropic&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+<br>
 
-## Developer Tools
+<div align="center">
+<table border="0">
+<tbody>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat-square&logo=linux&logoColor=black)
+  <tr>
+    <td><strong>Machine Learning:</strong></td>
+    <td><strong>Data Processing & Visualization:</strong></td>
+  </tr>
 
-## Embedded Platforms
+  <tr>
+    <td>
+      <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td>
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    </td>
+  </tr>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+  <tr>
+    <td><strong>AI & LLM Applications:</strong></td>
+    <td><strong>Computer Vision:</strong></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <img alt="OpenRouter" src="https://img.shields.io/badge/OpenRouter-1A1A1A?style=for-the-badge&logo=openrouter&logoColor=white" />
+    </td>
+    <td>
+      <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Agentic AI & MCP:</strong></td>
+    <td><strong>Embedded & Edge AI:</strong></td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-1E1E1E?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+    </td>
+    <td>
+      <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+      <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+      <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+    </td>
+  </tr>
+
+</tbody>
+</table>
+</div>
+
+<br>
 
 ---
 
@@ -118,6 +259,7 @@ $ echo $current_status
 # 📄 Research & Publications
 
 **A Portable LiDAR-Based Adverse Weather Perception System for Four-Wheelers with Multi-Stage Denoising**
+
 Presented at the 2nd International Conference on Next Generation Electronics (NEIeX 2026), School of Electronics Engineering, VIT Vellore, in association with IEEE Madras Section. *(May 2026)*
 
 Designed and validated a portable LiDAR perception pipeline for four-wheeler vehicular safety in adverse weather (fog, rain, particulate noise), integrating multi-stage spatial and temporal point-cloud denoising to improve obstacle detection and reduce false positives.
@@ -130,21 +272,53 @@ Authors: Namburi Vivek, Rudraraju Ethish, Pasumarthy Abhinav, **Devarasetty Kuld
 
 # 🎓 Education
 
-**Amrita Vishwa Vidyapeetham** — B.Tech in Computer Science and Engineering, Minor in IoT
+**Amrita Vishwa Vidyapeetham** — B.Tech in Computer Science and Engineering, Minor in IoT  
 Jul 2024 – Present • Coimbatore, India • CGPA: 7.6 / 10
 
-**FIITJEE Junior College** — Intermediate (Math, Physics, Chemistry)
+**FIITJEE Junior College** — Intermediate (Math, Physics, Chemistry)  
 2022 – 2024 • Vijayawada, India
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevarasettyKuldeep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevarasettyKuldeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" height="170" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DevarasettyKuldeep&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevarasettyKuldeep&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevarasettyKuldeep&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+---
 
+# Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DevarasettyKuldeep/DevarasettyKuldeep/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DevarasettyKuldeep/DevarasettyKuldeep/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/DevarasettyKuldeep/DevarasettyKuldeep/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 ---
 
